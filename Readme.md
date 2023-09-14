@@ -1,9 +1,16 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
+
 Comment: User-ID:	Digital Innovations <mlcsu.digitalinnovations@nhs.net>
+
 Comment: Valid from:	14/09/2023 14:36
+
 Comment: Valid until:	01/01/2025 12:00
+
 Comment: Type:	255-bit EdDSA (secret key available)
+
 Comment: Usage:	Signing, Encryption, Certifying User-IDs, SSH Authentication
+
 Comment: Fingerprint:	CAA1F0DF4BB2506C429AAB9C3D5D6EB385C7D5D8
 
 
@@ -18,4 +25,6 @@ RYbzVOmF7vNeYknRXzeH4zIWQg6eOayujM4BAuJ1AwEIB4h+BBgWCgAmFiEEyqHw
 61HRqm+C6HYyDZkQNfBDm8VI+vUl1w326DWEcE0PX+gA/j0OQN4qW6p6ZxnLi1yh
 m5VBkaPekMbZb2gcYaJtyvYH
 =jd3L
+
+
 -----END PGP PUBLIC KEY BLOCK-----
