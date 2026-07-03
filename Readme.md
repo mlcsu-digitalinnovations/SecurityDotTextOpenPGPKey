@@ -1,30 +1,23 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-
-Comment: User-ID:	Digital Innovations <mlcsu.digitalinnovations@nhs.net>
-
-Comment: Valid from:	14/09/2023 14:36
-
-Comment: Valid until:	01/01/2025 12:00
-
+Comment: User ID:	Digital Innovations <mlcsu.digitalinnovations@nhs.net>
+Comment: Valid from:	03/07/2026 10:18
+Comment: Valid until:	03/07/2028 12:00
 Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User IDs
+Comment: Fingerprint:	5308 12D3 7BDE A592 0C7C  3CD5 2B96 7011 F0AE 309B
 
-Comment: Usage:	Signing, Encryption, Certifying User-IDs, SSH Authentication
-
-Comment: Fingerprint:	CAA1F0DF4BB2506C429AAB9C3D5D6EB385C7D5D8
-
-
-mDMEZQMMcRYJKwYBBAHaRw8BAQdARsCbtXwdyoWcl4UPAv3Dy0Rr89bO/QC6r3g/
-uH+oc7y0NkRpZ2l0YWwgSW5ub3ZhdGlvbnMgPG1sY3N1LmRpZ2l0YWxpbm5vdmF0
-aW9uc0BuaHMubmV0PoiZBBMWCgBBFiEEyqHw30uyUGxCmqucPV1us4XH1dgFAmUD
-DHECGyMFCQJyIc8FCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQPV1us4XH
-1djgEgEAsguwyLsMHqpSGk5l3U++04OwD6jIQs01UjH8AXmH8tkBAJRODUot0BeN
-8C9LiDmkN+T+JxbvsS8nyOGZCBjJIV8MuDgEZQMMcRIKKwYBBAGXVQEFAQEHQHIN
-RYbzVOmF7vNeYknRXzeH4zIWQg6eOayujM4BAuJ1AwEIB4h+BBgWCgAmFiEEyqHw
-30uyUGxCmqucPV1us4XH1dgFAmUDDHECGwwFCQJyIc8ACgkQPV1us4XH1dgNvgEA
-61HRqm+C6HYyDZkQNfBDm8VI+vUl1w326DWEcE0PX+gA/j0OQN4qW6p6ZxnLi1yh
-m5VBkaPekMbZb2gcYaJtyvYH
-=jd3L
-
+mDMEakd+TxYJKwYBBAHaRw8BAQdAVzY3Qlq3JIioJ1PTk/Voewj/7qxA2QAZNHcn
++ca8une0NkRpZ2l0YWwgSW5ub3ZhdGlvbnMgPG1sY3N1LmRpZ2l0YWxpbm5vdmF0
+aW9uc0BuaHMubmV0Poi1BBMWCgBdFiEEUwgS03vepZIMfDzVK5ZwEfCuMJsFAmpH
+fk8bFIAAAAAABAAObWFudTIsMi41KzEuMTIsMiwxAhsDBQkDw9BhBQsJCAcCAiIC
+BhUKCQgLAgQWAgMBAh4HAheAAAoJECuWcBHwrjCbvtIBALbVf1uUQRqVHPYAeKnj
+EAwdoYqeA+9oLGMlINSAJm7TAP4gAcKBFAPc2KZq8uQWzSSDxqx5QGrXaHswYuZS
+GmKNCbg4BGpHfk8SCisGAQQBl1UBBQEBB0BIdNEq7pHSioOn88XSxsESdqeUfrT3
+7VK5dquj+lJaZQMBCAeImgQYFgoAQhYhBFMIEtN73qWSDHw81SuWcBHwrjCbBQJq
+R35PGxSAAAAAAAQADm1hbnUyLDIuNSsxLjEyLDIsMQIbDAUJA8PQYQAKCRArlnAR
+8K4wm60ZAP41ZYS/ZpHaeKO0fAcl1Px5MxS+Ix9mQ27+is0eAXFkbwD/Vqg3sAx7
+Hk78jY71y4oZXVsvh6geGCJQpIxuhsKhRQE=
+=JMD8
 
 -----END PGP PUBLIC KEY BLOCK-----
